@@ -18,9 +18,9 @@ This repository provides the code and data for the simulation engine and the loc
 Make sure you have Python ≥ 3.8 + Pytorch ≥ 1.11.0 and install required packages:  
 conda env create -f environment.yml
 ### 2. Download Pretrained Models
-Pretrained models for SALM1/2/3 are available on [Google Drive]([https://drive.google.com/drive/folders/1RqE8x5nnz4RmY9ixdjyOgK-ioEiB9I2l?usp=drive_link](https://drive.google.com/drive/folders/1wE27752z1f0NMGmYSweA0jrt6v82pZIp?usp=sharing)).
+Pretrained models for SALM1/2/3 are available on [Google Drive](https://drive.google.com/drive/folders/1wE27752z1f0NMGmYSweA0jrt6v82pZIp?usp=sharing).
 
-A backup link [Baidu Netdisk]([https://pan.baidu.com/s/1jpxL8lyzBCj-qJaXkhvsTw) (Passwork: 0000).
+A backup link [Baidu Netdisk](https://pan.baidu.com/s/1jpxL8lyzBCj-qJaXkhvsTw) (Passwork: 0000).
 
 Place move the downloaded model files into the 'Test/' folder.
 
